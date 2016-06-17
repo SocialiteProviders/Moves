@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/moves-socialite",
+    "name": "socialiteproviders/moves",
     "description": "Moves OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
